@@ -2,6 +2,8 @@
 
 Welcome to the Weather Forecasting Repository! 🚀 This project focuses on predicting weather conditions for eight cities in the North East region of India using machine learning models trained on authentic real-time weather data collected from IMD (India Meteorological Department) Pune observatories over the past 40 years.
 
+Access the demo app : https://thunderstrom.streamlit.app/
+
 ## Models 🤖
 
 The repository contains 8 different models, each representing a city:
